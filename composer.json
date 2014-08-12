@@ -12,9 +12,7 @@
     "include-path": [
         "library/"
     ],
-    "require": {
-        "zendframework/zendframework1": "1.*"
-    },
+    "require": {},
     "authors": [
         {
             "name": "Joakim Nygård",
